@@ -9,8 +9,10 @@ I’m interested in developing games, apps and cheats 🤔
 - current projects ⚒️
 
 android 🤖
+  
   recovering old modpes
   making a modlauncher
 
 ios 🍎
-- making a anti revoke + blacklist dns
+
+ making a anti revoke + blacklist dns

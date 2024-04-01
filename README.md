@@ -1,9 +1,16 @@
-Hi, I’m @John220099
+Hi, I’m @John220099 👋🏻 
 
-I’m interested in developing games, apps and cheats
+I’m interested in developing games, apps and cheats 🤔
 
-- I’m currently learning python, c++ ,kotlin and html 
+- I’m currently learning python, c++ ,kotlin and html 📒
 
-- I love developing hacks and cheats for android
+- I love developing hacks and cheats for android/ios 📲
 
-- and I am trying to find my way to use ios 
+- current projects ⚒️
+
+android 🤖
+  recovering old modpes
+  making a modlauncher
+
+ios 🍎
+- making a anti revoke + blacklist dns

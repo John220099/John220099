@@ -17,4 +17,4 @@ I’m interested in developing games, apps and cheats 🤔
 
  ios 🍎
 
- making a anti revoke + blacklist dns
+  nothing

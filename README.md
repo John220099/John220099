@@ -15,6 +15,8 @@ I’m interested in developing games, apps and cheats 🤔
   
   making a modlauncher
 
+  Devloping Matrix-x client 
+
  ios 🍎
 
   nothing

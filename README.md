@@ -10,13 +10,9 @@ I’m interested in developing games, apps and cheats 🤔
 
 
  android 🤖
-  
-  recovering old modpes
-  
-  making a modlauncher
 
   Devloping Matrix-x client 
 
  ios 🍎
 
-  nothing
+  Nothing 

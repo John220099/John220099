@@ -1,7 +1,7 @@
 Hi, I’m @John220099 👋🏻 
 
-I’m interested in developing games, apps and cheats 🤔
+- i make/code stuff🛠️
 
 - I’m currently learning python, c++ ,kotlin and html 📒
 
-- I love developing hacks and cheats for android/ios 📲
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=john220099&show_icons=true&locale=en&layout=compact" alt="john220099" /></p>
